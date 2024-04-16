@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .headerl{
-    width: 1440px;
+    width: 1444px;
     height: 112px;
     background-color: #0068FF;
 
@@ -12,13 +12,13 @@
     top: 0px;
 }
 .privco{
-    padding: 50px;
+    padding: 40px;
 }
 
 .fa-bell-o, .fa-user-circle-o{
     color: #FDFEFF;
     position: absolute;
-    left: 13.44%;
+    left: 13.54%;
     right: 13.49%;
     top: 9.04%;
     bottom: 14.46%;
